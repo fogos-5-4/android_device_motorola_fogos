@@ -35,6 +35,8 @@ PRODUCT_PACKAGES += \
     SettingsResDevice \
     WifiResDevice \
     WifiResDeviceXT2363-8 \
+    DeviceAsWebcam \
+    DeviceAsWebcamResTarget \
     WifiResDeviceXT2363-9
 
 # Audio
