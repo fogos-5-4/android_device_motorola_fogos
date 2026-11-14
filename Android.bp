@@ -4,6 +4,6 @@
 //
 soong_namespace {
     imports: [
-        "hardware/lineage/interfaces/power-libperfmgr",
+        "hardware/voltage/interfaces/power-libperfmgr",
     ],
 }
